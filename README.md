@@ -8,7 +8,7 @@ a basic Express server using best practices, including server modularization, us
    [Actions](https://github.com/marah-jaradat/server-deployment-practice/actions)
 
 **2. The Pull request:**
-   [pull request](https://github.com/marah-jaradat/server-deployment-practice/pull/2)
+   [pull request](https://github.com/marah-jaradat/basic-express-server/actions)
 
 **3. Heroku link**
-    [deploy-main](https://marahjradat-server-deploy-prod.herokuapp.com/),  [deploy-dev](https://marahjaradat-server-deploy-dev.herokuapp.com/)
+    [deploy-main](https://express-server-main.herokuapp.com/),  [deploy-dev](https://express-server-dev.herokuapp.com/)
