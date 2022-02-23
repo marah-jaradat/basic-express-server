@@ -24,7 +24,9 @@ app.get("/", (req, res) => {
 });
 
 app.get("/person", validator, (req, res) => {
-  res.json(`the name is: ${req.query.name}`);
+  res.json({
+    name: req.query.name,
+  });
 });
 
 // app.get("/data", (req, res) => {
