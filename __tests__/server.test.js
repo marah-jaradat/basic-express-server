@@ -12,8 +12,8 @@ describe("testing my server", () => {
     expect(response.text).toEqual("home route");
   });
 
-  it("testing/data", async () => {
-    const response = await request.get("/data");
+  it("testing/person", async () => {
+    const response = await request.get("/person");
     expect(typeof response.body).toEqual("object");
   });
 });
